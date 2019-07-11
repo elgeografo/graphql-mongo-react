@@ -9,5 +9,10 @@ Ejemplos sacados de los siguientes videos
 3. [#3 Schemas & Resolvers | Build a Complete App with GraphQL, Node.js, MongoDB and React.js](https://www.youtube.com/watch?v=LXTyzk2uud0&list=PL55RiY5tL51rG1x02Yyj93iypUuHYXcB_&index=3)
 4. [#4 Types & Data | Build a Complete App with GraphQL, Node.js, MongoDB and React.js](https://www.youtube.com/watch?v=6YlXANbXt0g&list=PL55RiY5tL51rG1x02Yyj93iypUuHYXcB_&index=4)
 5. [#5 GraphQL + MongoDB | Build a Complete App with GraphQL, Node.js, MongoDB and React.js]{https://www.youtube.com/watch?v=sOUNgOx0GcU&list=PL55RiY5tL51rG1x02Yyj93iypUuHYXcB_&index=5}
+6. [#6 Adding Relations | Build a Complete App with GraphQL, Node.js, MongoDB and React.js](https://www.youtube.com/watch?v=MRrcUQhZwBc&list=PL55RiY5tL51rG1x02Yyj93iypUuHYXcB_&index=6)
+7. [#7 Dynamic Relations | Build a Complete App with GraphQL, Node.js, MongoDB and React.js](https://www.youtube.com/watch?v=bgq7FRSPDpI&list=PL55RiY5tL51rG1x02Yyj93iypUuHYXcB_&index=7)
 
 
+
+Para conectar a la base de datos de mongo
+https://www.mongodb.com/cloud/atlas
